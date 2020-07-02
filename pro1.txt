@@ -7,4 +7,8 @@ hhh
 
 lockdown 1
 lockdown 2
+
+Quarantine 1
+Quarantine 2
+
 thanks
